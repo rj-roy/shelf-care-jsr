@@ -4,6 +4,7 @@
         {
             "id": 1,
             "title": "The Great Gatsby",
+            "slug": "the-great-gatsby",
             "author": "F. Scott Fitzgerald",
             "description": "A classic novel set in the Roaring Twenties.",
             "category": "Story",
@@ -13,6 +14,7 @@
         {
             "id": 2,
             "title": "Clean Code",
+            "slug": "clean-code",
             "author": "Robert C. Martin",
             "description": "A handbook of agile software craftsmanship.",
             "category": "Tech",
@@ -22,6 +24,7 @@
         {
             "id": 3,
             "title": "A Brief History of Time",
+            "slug": "a-brief-history-of-time",
             "author": "Stephen Hawking",
             "description": "Exploration of the origins of the universe.",
             "category": "Science",
@@ -31,6 +34,7 @@
         {
             "id": 4,
             "title": "The Hobbit",
+            "slug": "the-hobbit",
             "author": "J.R.R. Tolkien",
             "description": "Bilbo Baggins embarks on an epic quest.",
             "category": "Story",
@@ -40,6 +44,7 @@
         {
             "id": 5,
             "title": "The Pragmatic Programmer",
+            "slug": "the-pragmatic-programmer",
             "author": "Andrew Hunt",
             "description": "Essential lessons for modern software developers.",
             "category": "Tech",
@@ -49,6 +54,7 @@
         {
             "id": 6,
             "title": "Cosmos",
+            "slug": "cosmos",
             "author": "Carl Sagan",
             "description": "A scientific exploration of the universe.",
             "category": "Science",
@@ -58,6 +64,7 @@
         {
             "id": 7,
             "title": "1984",
+            "slug": "1984",
             "author": "George Orwell",
             "description": "A dystopian masterpiece examining surveillance.",
             "category": "Story",
@@ -67,6 +74,7 @@
         {
             "id": 8,
             "title": "Designing Data-Intensive Applications",
+            "slug": "designing-data-intensive-applications",
             "author": "Martin Kleppmann",
             "description": "Principles and trade-offs of modern data systems.",
             "category": "Tech",
@@ -76,6 +84,7 @@
         {
             "id": 9,
             "title": "The Selfish Gene",
+            "slug": "the-selfish-gene",
             "author": "Richard Dawkins",
             "description": "A look at evolution from a gene-centered perspective.",
             "category": "Science",
@@ -85,6 +94,7 @@
         {
             "id": 10,
             "title": "The Alchemist",
+            "slug": "the-alchemist",
             "author": "Paulo Coelho",
             "description": "A fable about following one's dreams.",
             "category": "Story",
@@ -94,6 +104,7 @@
         {
             "id": 11,
             "title": "Refactoring",
+            "slug": "refactoring",
             "author": "Martin Fowler",
             "description": "Improving the design of existing code.",
             "category": "Tech",
@@ -103,6 +114,7 @@
         {
             "id": 12,
             "title": "Sapiens",
+            "slug": "sapiens",
             "author": "Yuval Noah Harari",
             "description": "A brief history of humankind.",
             "category": "Science",
@@ -112,6 +124,7 @@
         {
             "id": 13,
             "title": "The Catcher in the Rye",
+            "slug": "the-catcher-in-the-rye",
             "author": "J.D. Salinger",
             "description": "A teenage boy's journey through New York City.",
             "category": "Story",
@@ -121,6 +134,7 @@
         {
             "id": 14,
             "title": "Introduction to Algorithms",
+            "slug": "introduction-to-algorithms",
             "author": "Thomas H. Cormen",
             "description": "The standard reference for algorithms.",
             "category": "Tech",
@@ -130,6 +144,7 @@
         {
             "id": 15,
             "title": "The Double Helix",
+            "slug": "the-double-helix",
             "author": "James D. Watson",
             "description": "Discovery of the structure of DNA.",
             "category": "Science",
@@ -139,6 +154,7 @@
         {
             "id": 16,
             "title": "To Kill a Mockingbird",
+            "slug": "to-kill-a-mockingbird",
             "author": "Harper Lee",
             "description": "A novel about racial injustice.",
             "category": "Story",
@@ -148,6 +164,7 @@
         {
             "id": 17,
             "title": "Eloquent JavaScript",
+            "slug": "eloquent-javascript",
             "author": "Marijn Haverbeke",
             "description": "A modern introduction to programming.",
             "category": "Tech",
@@ -157,6 +174,7 @@
         {
             "id": 18,
             "title": "Astrophysics for People in a Hurry",
+            "slug": "astrophysics-for-people-in-a-hurry",
             "author": "Neil deGrasse Tyson",
             "description": "The basics of the universe explained.",
             "category": "Science",
@@ -166,6 +184,7 @@
         {
             "id": 19,
             "title": "Brave New World",
+            "slug": "brave-new-world",
             "author": "Aldous Huxley",
             "description": "A chilling vision of a futuristic society.",
             "category": "Story",
@@ -175,6 +194,7 @@
         {
             "id": 20,
             "title": "Structure and Interpretation of Computer Programs",
+            "slug": "structure-and-interpretation-of-computer-programs",
             "author": "Harold Abelson",
             "description": "Foundational text on programming.",
             "category": "Tech",
@@ -184,6 +204,7 @@
         {
             "id": 21,
             "title": "The Gene: An Intimate History",
+            "slug": "the-gene-an-intimate-history",
             "author": "Siddhartha Mukherjee",
             "description": "The story of the quest to decipher human instructions.",
             "category": "Science",
@@ -193,6 +214,7 @@
         {
             "id": 22,
             "title": "The Road",
+            "slug": "the-road",
             "author": "Cormac McCarthy",
             "description": "A father and son walk through a post-apocalyptic landscape.",
             "category": "Story",
@@ -202,6 +224,7 @@
         {
             "id": 23,
             "title": "You Don't Know JS Yet",
+            "slug": "you-dont-know-js-yet",
             "author": "Kyle Simpson",
             "description": "Diving deep into JavaScript.",
             "category": "Tech",
@@ -211,6 +234,7 @@
         {
             "id": 24,
             "title": "The Elegant Universe",
+            "slug": "the-elegant-universe",
             "author": "Brian Greene",
             "description": "Superstrings, hidden dimensions.",
             "category": "Science",
@@ -220,6 +244,7 @@
         {
             "id": 25,
             "title": "Lord of the Flies",
+            "slug": "lord-of-the-flies",
             "author": "William Golding",
             "description": "Schoolboys stranded on an island descend into savagery.",
             "category": "Story",
@@ -229,6 +254,7 @@
         {
             "id": 26,
             "title": "Python Crash Course",
+            "slug": "python-crash-course",
             "author": "Eric Matthes",
             "description": "A hands-on introduction to programming.",
             "category": "Tech",
@@ -238,6 +264,7 @@
         {
             "id": 27,
             "title": "Silent Spring",
+            "slug": "silent-spring",
             "author": "Rachel Carson",
             "description": "The book that launched the environmental movement.",
             "category": "Science",
@@ -247,6 +274,7 @@
         {
             "id": 28,
             "title": "The Book Thief",
+            "slug": "the-book-thief",
             "author": "Markus Zusak",
             "description": "A young girl in Nazi Germany finds comfort in books.",
             "category": "Story",
@@ -256,6 +284,7 @@
         {
             "id": 29,
             "title": "Cracking the Coding Interview",
+            "slug": "cracking-the-coding-interview",
             "author": "Gayle Laakmann McDowell",
             "description": "Programming questions for interview prep.",
             "category": "Tech",
@@ -265,6 +294,7 @@
         {
             "id": 30,
             "title": "The Origin of Species",
+            "slug": "the-origin-of-species",
             "author": "Charles Darwin",
             "description": "The foundation of evolutionary biology.",
             "category": "Science",
@@ -274,6 +304,7 @@
         {
             "id": 31,
             "title": "Frankenstein",
+            "slug": "frankenstein",
             "author": "Mary Shelley",
             "description": "A scientist creates a sentient creature.",
             "category": "Story",
@@ -283,6 +314,7 @@
         {
             "id": 32,
             "title": "Soft Skills",
+            "slug": "soft-skills",
             "author": "John Sonmez",
             "description": "The software developer's life manual.",
             "category": "Tech",
@@ -292,6 +324,7 @@
         {
             "id": 33,
             "title": "The Sixth Extinction",
+            "slug": "the-sixth-extinction",
             "author": "Elizabeth Kolbert",
             "description": "An unnatural history of the current mass extinction.",
             "category": "Science",
@@ -301,6 +334,7 @@
         {
             "id": 34,
             "title": "One Hundred Years of Solitude",
+            "slug": "one-hundred-years-of-solitude",
             "author": "Gabriel García Márquez",
             "description": "The multi-generational story of the Buendía family.",
             "category": "Story",
@@ -310,6 +344,7 @@
         {
             "id": 35,
             "title": "Code: The Hidden Language",
+            "slug": "code-the-hidden-language",
             "author": "Charles Petzold",
             "description": "Understanding how computers work.",
             "category": "Tech",
@@ -319,6 +354,7 @@
         {
             "id": 36,
             "title": "When Breath Becomes Air",
+            "slug": "when-breath-becomes-air",
             "author": "Paul Kalanithi",
             "description": "A neurosurgeon's memoir about facing mortality.",
             "category": "Science",
@@ -328,6 +364,7 @@
         {
             "id": 37,
             "title": "Animal Farm",
+            "slug": "animal-farm",
             "author": "George Orwell",
             "description": "A satirical allegory about the Russian Revolution.",
             "category": "Story",
@@ -337,6 +374,7 @@
         {
             "id": 38,
             "title": "The Mythical Man-Month",
+            "slug": "the-mythical-man-month",
             "author": "Frederick P. Brooks Jr.",
             "description": "Essays on software engineering.",
             "category": "Tech",
@@ -346,6 +384,7 @@
         {
             "id": 39,
             "title": "Guns, Germs, and Steel",
+            "slug": "guns-germs-and-steel",
             "author": "Jared Diamond",
             "description": "The fates of human societies.",
             "category": "Science",
@@ -355,6 +394,7 @@
         {
             "id": 40,
             "title": "The Kite Runner",
+            "slug": "the-kite-runner",
             "author": "Khaled Hosseini",
             "description": "A story of betrayal and redemption set in Afghanistan.",
             "category": "Story",
@@ -364,6 +404,7 @@
         {
             "id": 41,
             "title": "Head First Design Patterns",
+            "slug": "head-first-design-patterns",
             "author": "Eric Freeman",
             "description": "A brain-friendly guide to software design patterns.",
             "category": "Tech",
@@ -373,6 +414,7 @@
         {
             "id": 42,
             "title": "Thinking, Fast and Slow",
+            "slug": "thinking-fast-and-slow",
             "author": "Daniel Kahneman",
             "description": "Exploration of the two systems that drive thought.",
             "category": "Science",
@@ -382,6 +424,7 @@
         {
             "id": 43,
             "title": "Pride and Prejudice",
+            "slug": "pride-and-prejudice",
             "author": "Jane Austen",
             "description": "The romantic clash between Elizabeth Bennet and Mr. Darcy.",
             "category": "Story",
@@ -391,6 +434,7 @@
         {
             "id": 44,
             "title": "Domain-Driven Design",
+            "slug": "domain-driven-design",
             "author": "Eric Evans",
             "description": "Tackling complexity in the heart of software.",
             "category": "Tech",
@@ -400,6 +444,7 @@
         {
             "id": 45,
             "title": "The God Delusion",
+            "slug": "the-god-delusion",
             "author": "Richard Dawkins",
             "description": "A critique of religious faith from a scientific perspective.",
             "category": "Science",
@@ -409,6 +454,7 @@
         {
             "id": 46,
             "title": "Slaughterhouse-Five",
+            "slug": "slaughterhouse-five",
             "author": "Kurt Vonnegut",
             "description": "An anti-war novel following Billy Pilgrim through time.",
             "category": "Story",
@@ -418,6 +464,7 @@
         {
             "id": 47,
             "title": "Patterns of Enterprise Application Architecture",
+            "slug": "patterns-of-enterprise-application-architecture",
             "author": "Martin Fowler",
             "description": "Solutions for common problems in enterprise development.",
             "category": "Tech",
@@ -427,6 +474,7 @@
         {
             "id": 48,
             "title": "Entangled Life",
+            "slug": "entangled-life",
             "author": "Merlin Sheldrake",
             "description": "How fungi make our worlds and change our minds.",
             "category": "Science",
@@ -436,6 +484,7 @@
         {
             "id": 49,
             "title": "The Picture of Dorian Gray",
+            "slug": "the-picture-of-dorian-gray",
             "author": "Oscar Wilde",
             "description": "A man sells his soul for eternal youth.",
             "category": "Story",
@@ -445,6 +494,7 @@
         {
             "id": 50,
             "title": "Working Effectively with Legacy Code",
+            "slug": "working-effectively-with-legacy-code",
             "author": "Michael Feathers",
             "description": "Strategies for working with large, untested codebases.",
             "category": "Tech",
